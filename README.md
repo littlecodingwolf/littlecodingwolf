@@ -2,7 +2,7 @@
 - 👀 I’m interested in games, fitness and obviously coding ;)
 - 🌱 I’m currently learning JavaScript, CSS & HTML 
 - 💞️ I’m looking to collaborate on front-end projects to enhance my programming skills
-- 📫 hit me up on littlecodingwolf@gmail.com
+
 
 <!---
 littlecodingwolf/littlecodingwolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
